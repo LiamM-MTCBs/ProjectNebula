@@ -1,1 +1,1 @@
-# Project FanBula APK releases will be hosted here.
+# Project Nebula APK releases will be hosted here.
